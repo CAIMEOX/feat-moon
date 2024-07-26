@@ -1,0 +1,9 @@
+{
+  "name": "CAIMEOX/feat-moon",
+  "version": "0.1.0",
+  "readme": "README.md",
+  "repository": "",
+  "license": "MIT",
+  "keywords": ["generation", "functional enumeration"],
+  "description": "Functional enumeration of algebraic types"
+}
