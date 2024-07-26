@@ -7,7 +7,7 @@ This can be used for systematic testing like smallcheck, or style random testing
 
 ## How To Use
 
-The enumerators are defined in a very boilerplate manner but currently MoonBit does not provide any meta programming features. You can check the files in `lib` directory which ended with `test_mbt` to find the usage.
+The enumerators are defined in a very boilerplate manner but currently MoonBit does not provide any meta programming features. You can check the files in `lib` directory which ended with `test_.mbt` to find the usage.
 
 ## Contributor
 
